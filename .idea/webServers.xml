@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="aacf4b54-493e-4c2a-9ee1-6d53af937fb0" name="demos-sftp" url="http://demosmed.beget.tech">
+        <fileTransfer host="demosmed.beget.tech" port="22" rootFolder="/home/d/demosmed/demosmed.beget.tech/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
